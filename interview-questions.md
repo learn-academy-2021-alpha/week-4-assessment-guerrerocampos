@@ -20,7 +20,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
   Researched answer: A block consists of chunks of code. · You assign a name to a block. · The code in the block is always enclosed within braces.
-
+<!-- ddf -->
 
 
 3. Ruby has an implicit return. What does that mean?
